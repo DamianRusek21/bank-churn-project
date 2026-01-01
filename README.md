@@ -12,13 +12,13 @@ Predicting which bank customers are likely to leave (churn) using financial and 
 ## Visualizations
 
 ### Churn Distribution
-![Churn Distribution](plots/churn_countplot.png)
+![Churn Distribution](Bank churn/churn_countplot.png)
 
 ### Balance vs Churn
-![Balance vs Churn](plots/balance_vs_churn.png)
+![Balance vs Churn](Bank churn/balance_vs_churn.png)
 
 ### Confusion Matrix
-![Confusion Matrix](plots/confusion_matrix.png)
+![Confusion Matrix](Bank churn/confusion_matrix.png)
 
 ## How to Run
 1. Clone the repo  
