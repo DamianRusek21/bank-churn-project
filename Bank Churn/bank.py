@@ -17,7 +17,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 # 2. LOAD DATA
 # ===============================
 
-df = pd.read_csv("Churn_Modelling.csv")
+df = pd.read_csv("data/Churn_Modelling.csv")
 
 # Preview the data
 print(df.head())
