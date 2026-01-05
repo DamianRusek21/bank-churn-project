@@ -20,6 +20,18 @@ Predicting which bank customers are likely to leave (churn) using financial and 
 ### Confusion Matrix
 ![Confusion Matrix](bank_churn/plots/confusion_matrix.png)
 
+### Tableau Dashboard
+
+I also built an interactive Tableau dashboard to explore these patterns with filters and KPIs.
+
+📖 Medium article:
+https://lnkd.in/eSbqHByj
+
+📊 Interactive Tableau dashboard:
+https://lnkd.in/e7iKrjFP
+
+I’d love feedback from anyone working in data, analytics, or product — always looking to learn and improve.
+
 ## How to Run
 1. Clone the repo  
 2. Install dependencies:
